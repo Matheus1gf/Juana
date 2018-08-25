@@ -25,6 +25,9 @@
     </div>
   </div>
       <div class="textocadastro float-right">
-        <a href="cadastro.php">Clique aqui para cadastrar.</a>
+        <a href="cadastro.php">Esqueci minha senha</a>
+    </div>
+      <div class="textocadastro float-left">
+        <a href="cadastro.php">Clique aqui para se cadastrar</a>
     </div>
 </form>
