@@ -23,3 +23,47 @@ body{
 .textocadastro{
     font-size: 1px;
 }
+
+/*Codigos de estilo pedidos*/
+
+#Caneca{
+    display: none;
+}
+#Chinelo{
+    display: none;
+}
+#Camisa{
+    display: none;
+}
+#Bolsa{
+    display: none;
+}
+#Outros{
+    display: none;
+}
+#Azuleijo{
+    display: none;
+}
+#Chaveiro-comum{
+    display: none;
+}
+#Chaveiro-espuma{
+    display: none;
+}
+#Quebra-cabecas{
+    display: none;
+}
+
+#container-pedidos{
+    background-color: #fff;
+    border-radius: 3%;
+    padding: 4%;
+}
+#pag-pedidos{
+    text-align: center;
+}
+hr {
+    height:1px; border:none; color:#000; background-color:#000;
+}    
+
+/*fim codigo pedidos*/
