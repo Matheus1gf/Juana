@@ -34,6 +34,13 @@ body{
     background-color: #ffffffff;
     color: #29235c;
 }
+
+/*Códigos de estilo de cadastro*/
+
+.cadastro{
+    margin-top: 90px;
+}
+
 /*Codigos de estilo pedidos*/
 
 #Caneca{

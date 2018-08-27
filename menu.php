@@ -10,6 +10,9 @@
         <a class="nav-link" href="#">LOGIN</a>
       </li>
        <li class="nav-item">
+        <a class="nav-link" href="cadastro.php">CADASTRAR</a>
+      </li>
+       <li class="nav-item">
         <a class="nav-link" href="#">LOJA DE PEDIDOS</a>
       </li>
       <li class="nav-item dropdown">
