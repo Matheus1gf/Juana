@@ -7,10 +7,10 @@
   <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="#">QUEM SOMOS</a>
+        <a class="nav-link" href="#">LOGIN</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">CONTATO</a>
+       <li class="nav-item">
+        <a class="nav-link" href="#">LOJA DE PEDIDOS</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -24,6 +24,12 @@
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="outros.php">OUTROS</a>
         </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">QUEM SOMOS</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">CONTATO</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">LOCALIZAÇÃO</a>

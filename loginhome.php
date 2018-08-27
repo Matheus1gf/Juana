@@ -21,7 +21,7 @@
       </div>
     </div>
     <div class="col-auto">
-      <button type="submit" class="btn btn text-white cor-botao mb-2">Enviar</button>
+      <button type="submit" class="btn btn-danger text-white cor-botao mb-2">Enviar</button>
     </div>
   </div>
       <div class="textocadastro float-right">
