@@ -38,7 +38,7 @@
     ?>
     <!-- Final do menu -->
     
-    <!-- Banner Carousel --->
+    <!-- Banner Carousel -->
     <?php
     include 'Paginaprincipal/carousel.php';
     ?>

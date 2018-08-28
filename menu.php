@@ -7,13 +7,13 @@
   <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="#">LOGIN</a>
+        <a class="nav-link" href="login.php">LOGIN</a>
       </li>
        <li class="nav-item">
         <a class="nav-link" href="cadastro.php">CADASTRAR</a>
       </li>
        <li class="nav-item">
-        <a class="nav-link" href="#">LOJA DE PEDIDOS</a>
+        <a class="nav-link" href="pedidos.php">LOJA DE PEDIDOS</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

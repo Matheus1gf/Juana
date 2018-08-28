@@ -77,9 +77,18 @@
       <label for="inputDigite novamente a senha">Digite novamente a senha</label>
       <input type="text" class="form-control" id="inputDigite novamente a senha"  placeholder="Mesma senha digitada acima">
     </div>
-    <button type="submit" class="btn btn-primary">Enviar</button>
+    <button type="submit" class="btn btn-danger cor-botao mt-3 mb-5">Enviar</button>
   </form>
 
   </div>
+      <!-- rodapé -->
+      <footer class="cor-botao p-4" >
+    <div class="botao btn btn bg-white p-0 mr-2">
+        <img src="img/social/facebook.png" alt="" >
+    </div>
+    <div class="btn btn bg-white p-0">
+        <img src="img/social/telegram.png" alt="">
+    </div>
+    </footer>
 </body>
   
