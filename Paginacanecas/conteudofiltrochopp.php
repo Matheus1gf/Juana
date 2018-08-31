@@ -7,7 +7,7 @@
             <h5 class="card-title">CANECA DE CHOPP DE VIDRO JATEADA 330ML</h5>
             <p class="card-text">R$15,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 1 -->
       
@@ -18,7 +18,7 @@
             <h5 class="card-title">CANECA DE CHOPP DE ALUMÍNIO 400ML</h5>
             <p class="card-text">R$15,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 2 -->
         
@@ -29,7 +29,7 @@
             <h5 class="card-title">CANECA DE CHOPP DE VIDRO 375ML</h5>
             <p class="card-text">R$18,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 2 -->
     </div>
@@ -42,7 +42,7 @@
             <h5 class="card-title">CANECA DE VIDRO COM FUNDO ESTRELADO 475ML</h5>
             <p class="card-text">R$34,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 1 -->
       
@@ -53,7 +53,7 @@
             <h5 class="card-title">CANECA DE VIDRO BEER MUG 475ML</h5>
             <p class="card-text">R$30,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 2 -->
         
@@ -64,7 +64,7 @@
             <h5 class="card-title">CANECA DE VIDRO COM FUNDO ESTRELADO E TARJA 475ML</h5>
             <p class="card-text">R$36,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 2 -->
     </div>

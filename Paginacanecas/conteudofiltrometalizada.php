@@ -7,7 +7,7 @@
             <h5 class="card-title">CANECA METALIZADA ROSA</h5>
             <p class="card-text">R$23,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 1 -->
       
@@ -18,7 +18,7 @@
             <h5 class="card-title">CANECA METALIZADA PRATA</h5>
             <p class="card-text">R$23,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 2 -->
         
@@ -29,7 +29,7 @@
             <h5 class="card-title">CANECA METALIZADA DOURADA</h5>
             <p class="card-text">R$24,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 2 -->
     </div>

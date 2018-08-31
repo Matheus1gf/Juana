@@ -50,21 +50,68 @@
 
     <form action="mailto:testejuana@gmail.com" method="post">
         <div id="itens">
-            <input type="radio" id="item" value="item-caneca" onchange="mostra()"> Caneca
-            <input type="radio" id="item" value="item-chinelo"> Chinelo
-            <input type="radio" id="item" value="item-camisa"> Camisa
-            <input type="radio" id="item" value="item-bolsa"> Bolsa
-            <input type="radio" id="item" value="item-outros"> Outros
+            <div class="form-check-inline">
+            <input type="radio" id="item-caneca" name="item"> Caneca
+            </div>
+            <div class="form-check-inline">
+            <input type="radio" id="item-chinelo" name="item" > Chinelo
+            </div>
+            <div class="form-check-inline">
+            <input type="radio" id="item-camisa" name="item" > Camisa
+            </div>
+            <div class="form-check-inline">
+            <input type="radio" id="item-bolsa" name="item"> Bolsa
+            </div>
+            <div class="form-check-inline">
+            <input type="radio" id="item-outros" name="item"> Outros
+            </div>
         </div>
-        <script>
-        function mostra(){
-            var tipo = document.getElementById("item").value;
-            
-            if(tipo==="item-caneca"){
-             document.getElementById("Caneca").style.display = "block";   
-            }
-        }
-        </script>
+       <script>
+        $("#item-caneca").click(function(){
+            $("#Caneca").toggle();
+            $("#Chinelo").hide();
+            $("#Camisa").hide();
+            $("#Bolsa").hide();
+            $("#Outros").hide();
+        });
+        $("#item-chinelo").click(function(){
+            $("#Chinelo").toggle();
+            $("#Caneca").hide();
+            $("#Camisa").hide();
+            $("#Bolsa").hide();
+            $("#Outros").hide();
+        });
+        $("#item-camisa").click(function(){
+            $("#Camisa").toggle();
+            $("#Chinelo").hide();
+            $("#Caneca").hide();
+            $("#Bolsa").hide();
+            $("#Outros").hide();
+        });
+        $("#item-bolsa").click(function(){
+            $("#Bolsa").toggle();
+            $("#Chinelo").hide();
+            $("#Camisa").hide();
+            $("#Caneca").hide();
+            $("#Outros").hide();
+        });
+        $("#item-outros").click(function(){
+            $("#Outros").toggle();
+            $("#Chinelo").hide();
+            $("#Camisa").hide();
+            $("#Bolsa").hide();
+            $("#Caneca").hide();
+        });
+        $("#item-avental").click(function(){
+            $("#Avental").toggle();
+            $("#Azuleijo").hide();
+            $("#Chaveiro-comum").hide();
+            $("#Chaveiro-espumado").hide();
+            $("#Quebra-cabecas").hide();
+        });
+               
+       
+    </script>
    
         <!-- Caixas de Tipos de Itens -->
         
@@ -74,48 +121,38 @@
         <div id="Caneca">
             <h3>Tipo</h3>
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="caneca-comum">
-              <label class="form-check-label" for="defaultCheck1"> Caneca Comum </label>
+                <input class="form-check-input" type="radio" name="caneca" id="caneca-comum"> Caneca comum          
+            </div>
+            
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="caneca" id="caneca-magica"> Caneca Mágica          
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="caneca-magica">
-              <label class="form-check-label" for="defaultCheck1"> Caneca Mágica </label>
+              <input class="form-check-input" type="radio" name="caneca" id="caneca-alcacolorida"> Caneca com alça colorida          
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="caneca-colorida">
-              <label class="form-check-label" for="defaultCheck1"> Caneca com alça colorida </label>
+              <input class="form-check-input" type="radio" name="caneca" id="caneca-tarjabranca"> Caneca com tarja branca          
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="caneca-tarjabranca">
-              <label class="form-check-label" for="defaultCheck1"> Caneca com tarja branca </label>
+              <input class="form-check-input" type="radio" name="caneca" id="caneca-chopp"> Caneca de chopp          
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="caneca-chop">
-              <label class="form-check-label" for="defaultCheck1"> Caneca de chop </label>
+              <input class="form-check-input" type="radio" name="caneca" id="caneca-cromada"> Caneca cromada          
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="caneca-cromada">
-              <label class="form-check-label" for="defaultCheck1"> Caneca cromada </label>
+              <input class="form-check-input" type="radio" id="caneca-fundocolorido"> Caneca de fundo colorido          
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="caneca-fundo">
-              <label class="form-check-label" for="defaultCheck1"> Caneca de fundo colorido </label>
+              <input class="form-check-input" type="radio" name="caneca" id="caneca-metalizada"> Caneca metalizada          
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="caneca-metalizada">
-              <label class="form-check-label" for="defaultCheck1"> Caneca metalizada  </label>
+              <input class="form-check-input" type="radio" name="caneca" id="squeeze"> Squeeze         
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="squeeze">
-              <label class="form-check-label" for="defaultCheck1"> Squeeze </label>
+              <input class="form-check-input" type="radio" name="caneca" id="copo-japones"> Copo japonês          
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="copo-japones">
-              <label class="form-check-label" for="defaultCheck1"> Copo Japonês </label>
-            </div>
-            <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="copo-cafe">
-              <label class="form-check-label" for="defaultCheck1"> Copo de Café </label>
+              <input class="form-check-input" type="radio" name="caneca" id="copo-café"> Copo de café          
             </div>
         </div>
         
@@ -124,12 +161,10 @@
         <div id="Chinelo">
             <h3>Tipo</h3>
              <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-              <label class="form-check-label" for="defaultCheck1"> Chinelo infantil </label>
+              <input class="form-check-input" type="radio" name="chinelo" id="chinelo-infantil"> Chinelo infantil          
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-              <label class="form-check-label" for="defaultCheck1"> Chinelo adulto </label>
+              <input class="form-check-input" type="radio" name="chinelo" id="chinelo-adulto"> Chinelo adulto          
             </div>
         </div>
         
@@ -139,12 +174,10 @@
          <div id="Camisa">
              <h3>Tipo</h3>
              <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-              <label class="form-check-label" for="defaultCheck1"> Camisa infantil </label>
+              <input class="form-check-input" type="radio" name="camisa" id="camisa-infantil"> Camisa infantil          
             </div>
-            <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-              <label class="form-check-label" for="defaultCheck1"> Camisa adulto </label>
+             <div class="form-check">
+              <input class="form-check-input" type="radio" name="camisa" id="camisa-adulto"> Camisa adulto          
             </div>
         </div>
     
@@ -154,45 +187,45 @@
          <div id="Bolsa">
              <h3>Tipo</h3>
              <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-              <label class="form-check-label" for="defaultCheck1"> Bolsa comum </label>
+              <input class="form-check-input" type="radio" name="bolsa" id="bolsa-comum"> Bolsa comum          
             </div>
-            <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-              <label class="form-check-label" for="defaultCheck1"> Bolsa esportiva </label>
+             <div class="form-check">
+              <input class="form-check-input" type="radio" name="bolsa" id="bolsa-esportiva"> Bolsa esportiva         
             </div>
         </div>
     
     <!-- Outros -->
+    
     <div id="Outros">
         <h3>Outros Itens</h3>
-        <div class="form-check form-check-inline">
-          <input class="form-check-input" type="checkbox" id="inlineCheckbox7" value="option1">
-          <label class="form-check-label" for="inlineCheckbox1">Avental</label>
-        </div>
-        
-        <div class="form-check form-check-inline">
-          <input class="form-check-input" type="checkbox" id="inlineCheckbox8" value="option1">
-          <label class="form-check-label" for="inlineCheckbox1">Azuleijo</label>
-        </div>
-        
-        <div class="form-check form-check-inline">
-          <input class="form-check-input" type="checkbox" id="inlineCheckbox9" value="option1">
-          <label class="form-check-label" for="inlineCheckbox1">Chaveiro comum</label>
-        </div>
-        
-        <div class="form-check form-check-inline">
-          <input class="form-check-input" type="checkbox" id="inlineCheckbox10" value="option1">
-          <label class="form-check-label" for="inlineCheckbox1">Chaveiro espumado</label>
-        </div>
-        
-        <div class="form-check form-check-inline">
-          <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
-          <label class="form-check-label" for="inlineCheckbox1">Quebra-cabeças</label>
-        </div>
+        <div class="form-check-inline">
+            <input type="radio" id="item-avental" name="outros"> Avental
+            </div>
+            <div class="form-check-inline">
+            <input type="radio" id="item-azuleijo" name="outros" > Azuleijo
+            </div>
+            <div class="form-check-inline">
+            <input type="radio" id="item-chaveirocomum" name="outros" > Chaveiro comum
+            </div>
+            <div class="form-check-inline">
+            <input type="radio" id="item-chaveiroespumado" name="outros"> Chaveiro espumado
+            </div>
+            <div class="form-check-inline">
+            <input type="radio" id="item-quebracabecas" name="outros"> Quebra-cabeças
+            </div>
     </div>
     
     <!-- Outros-tipos -->
+    <!-- Avental -->
+     <div id="Avental">
+             <h3>Tipo</h3>
+            <div class="form-check-inline">
+            <input type="radio" id="item-avental" name="avental"> Avental Comum
+            </div>
+            <div class="form-check-inline">
+            <input type="radio" id="item-avental" name="avental"> Avental com bolso
+            </div>
+    </div>
     <!-- Azuleijos -->    
     
     <div id="Azuleijo">
@@ -299,7 +332,7 @@
     </tr>
     <tr>
     <td></td>
-    <td><input type="submit" class="btn btn-success" name="Submit" value="Fazer pedido"></td>
+    <td><input type="submit" class="btn btn-success  cor-botao text-white" name="Submit" value="Fazer pedido"></td>
     </tr>
     </table>
     

@@ -84,8 +84,8 @@
        <!-- fim menu 5 -->
         </div>
 <!-- fim do menu -->
-    </div>  
     </div>
+    </div>  
     <!-- rodapé -->
     <footer class="cor-botao p-4" >
     <div class="botao btn btn bg-white p-0 mr-2">
@@ -95,6 +95,5 @@
         <img src="img/social/telegram.png" alt="">
     </div>
     </footer>
-    
 </body>
 </html>

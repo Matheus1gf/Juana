@@ -7,7 +7,7 @@
             <h5 class="card-title">CHAVEIRO DE CORAÇÃO</h5>
             <p class="card-text">R$2,50 a unidade.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 1 -->
           
@@ -18,7 +18,7 @@
             <h5 class="card-title">CHAVEIRO DE QUADRADO</h5>
             <p class="card-text">R$2,50 a unidade.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 2 -->
       
@@ -29,7 +29,7 @@
             <h5 class="card-title">CHAVEIRO DE ESCUDO</h5>
             <p class="card-text">R$2,50 a unidade.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 3 -->
 
@@ -43,7 +43,7 @@
             <h5 class="card-title">CHAVEIRO DE OSSO</h5>
             <p class="card-text mt-5">R$2,50 a unidade.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 4 --> 
          
@@ -54,7 +54,7 @@
             <h5 class="card-title">CHAVEIRO DE ESPUMA CORAÇÃO</h5>
             <p class="card-text mt-4">R$1,30 a unidade.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 5 -->
       
@@ -65,7 +65,7 @@
             <h5 class="card-title">CHAVEIRO DE ESPUMA REDONDO</h5>
             <p class="card-text mt-4">R$1,30 a unidade.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 6 -->     
     </div>

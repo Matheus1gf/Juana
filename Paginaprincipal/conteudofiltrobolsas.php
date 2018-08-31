@@ -7,7 +7,7 @@
             <h5 class="card-title">Bolsas Comuns</h5>
             <p class="card-text">Aqui você encontra bolsas comuns na cor branca personalizáveis, prontas para receber a arte que você desejar. Ideais para praia, piscinas e locais do cotidiano!</p>
           </div>
-          <div class="card-body"><a href="outros.php" class="btn btn-outline-danger cor-botao text-white">Visitar</a></div>
+          <div class="card-body"><a href="outros.php" class="btn btn-outline-dark cor-botao text-white">Visitar</a></div>
       </div>
       <!-- Fim do card 1 -->
       
@@ -18,7 +18,7 @@
             <h5 class="card-title">Bolsas Esportivas</h5>
             <p class="card-text">Aqui você encontra bolsas esportivas na cor branca personalizáveis, prontas para receber a arte que você desejar. Ideais para corridas, academia e eventos esportivos!</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Visitar</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Visitar</a></div>
       </div>
     </div>
       <!-- Fim do card 2 -->

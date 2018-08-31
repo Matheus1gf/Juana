@@ -1,4 +1,4 @@
-body{
+﻿body{
     background-color: #f1ede8;
     color: #29235c;
 }
@@ -86,3 +86,13 @@ hr {
 }    
 
 /*fim codigo pedidos*/
+/*codigo contato*/
+
+#conteudo{
+    text-align: center;
+}
+
+#card{
+    width: 10%;
+    height: 10%;
+}

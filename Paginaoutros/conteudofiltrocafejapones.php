@@ -7,7 +7,7 @@
             <h5 class="card-title">COPO BRANCO DE CHÁ JAPONÊS</h5>
             <p class="card-text">R$16,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Visitar</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Visitar</a></div>
       </div>
       <!-- Fim do card 1 -->
       
@@ -18,7 +18,7 @@
             <h5 class="card-title">COPO BRANCO DE CAFÉ</h5>
             <p class="card-text">R$38,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Visitar</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Visitar</a></div>
       </div>
       <!-- Fim do card 2 -->
     </div>

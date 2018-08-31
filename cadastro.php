@@ -39,7 +39,7 @@
     <!-- Final do menu -->
 
      <!-- Cadastro de cliente -->
-        <div class="cadastro container">
+        <div id="container-pedidos" class="cadastro container bg-white mb-5">
             
    <form>
        <h1>CADASTRO</h1>  
@@ -77,9 +77,9 @@
       <label for="inputDigite novamente a senha">Digite novamente a senha</label>
       <input type="text" class="form-control" id="inputDigite novamente a senha"  placeholder="Mesma senha digitada acima">
     </div>
-    <button type="submit" class="btn btn-danger cor-botao mt-3 mb-5">Enviar</button>
+    <button type="submit" class="btn btn-dark cor-botao mt-3 mb-5">Enviar</button>
   </form>
-
+        </div>
   </div>
       <!-- rodapé -->
       <footer class="cor-botao p-4" >

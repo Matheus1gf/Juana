@@ -7,7 +7,7 @@
             <h5 class="card-title">CANECA FUNDO COLORIDO</h5>
             <p class="card-text mt-5">Caneca branca com interior colorido R$17,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 1 -->
       
@@ -18,7 +18,7 @@
             <h5 class="card-title">CANECA FUNDO, ALÇA E INTERIROR</h5>
             <p class="card-text mt-4">Caneca branca com fundo alça e interior coloridos por R$21,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 2 -->
           
@@ -29,7 +29,7 @@
             <h5 class="card-title">CANECA ALÇA E INTERIOR</h5>
             <p class="card-text mt-5">Caneca branca com fundo e alça coloridos por R$19,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 3 -->
      </div>
@@ -42,7 +42,7 @@
             <h5 class="card-title">CANECA COM ALÇA DE CORAÇÃO E INTERIOR</h5>
             <p class="card-text mt-4">Caneca branca com alça com formato de coração e interior coloridos por R$20,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-danger cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
     </div>
 </div>

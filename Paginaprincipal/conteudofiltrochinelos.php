@@ -7,7 +7,7 @@
             <h5 class="card-title">Chinelos Adultos</h5>
             <p class="card-text">Chinelos adultos personalizados dos tamanhos 33/34 até 45/46. Personalize seus calçados da forma que deseje e saia por aí com seu chinelo personalizado!</p>
           </div>
-          <div class="card-body"><a href="outros.php" class="btn btn-outline-danger cor-botao text-white">Visitar</a></div>
+          <div class="card-body"><a href="outros.php" class="btn btn-outline-dark cor-botao text-white">Visitar</a></div>
       </div>
       <!-- Fim do card 1 -->
       
@@ -18,7 +18,7 @@
             <h5 class="card-title">Chinelos Infantis</h5>
             <p class="card-text">Chinelos infantis personalizados dos tamanhos 17/18 até 31/32. Personalize os calçados de seus filhos(as) com os personagens que eles mais amam!</p>
           </div>
-          <div class="card-body"><a href="outros.php" class="btn btn-outline-danger cor-botao text-white">Visitar</a></div>
+          <div class="card-body"><a href="outros.php" class="btn btn-outline-dark cor-botao text-white">Visitar</a></div>
       </div>
       <!-- Fim do card 2 -->
     </div>
