@@ -29,13 +29,13 @@
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">QUEM SOMOS</a>
+        <a class="nav-link" href="quemsomos.php">QUEM SOMOS</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">CONTATO</a>
+        <a class="nav-link" href="contato.php">CONTATO</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">LOCALIZAÇÃO</a>
+        <a class="nav-link" href="contato.php">LOCALIZAÇÃO</a>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">

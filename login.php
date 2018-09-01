@@ -45,7 +45,7 @@
         </style>
         <div id="container-pedidos"class="container mt-5 mb-5">
             <h1>Login</h1>
-            <hr>
+            <hr class="linha cor-botao">
             <div class="row">
                 <div class="col-md-6">
                     <form class="container">
@@ -86,10 +86,10 @@
         <!-- rodapé -->
     <footer class="cor-botao p-4" >
     <div class="botao btn btn bg-white p-0 mr-2">
-        <img src="img/social/facebook.png" alt="" >
+        <a href="https://www.facebook.com/juanapersonalizacoes/?ref=settings"><img src="img/social/facebook.png" alt="" ></a>
     </div>
     <div class="btn btn bg-white p-0">
-        <img src="img/social/telegram.png" alt="">
+    <a href="https://web.telegram.org/#/im?p=u777000_4041729175755639182"><img src="img/social/telegram.png" alt=""></a>
     </div>
     </footer>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

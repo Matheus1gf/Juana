@@ -84,10 +84,10 @@
       <!-- rodapé -->
       <footer class="cor-botao p-4" >
     <div class="botao btn btn bg-white p-0 mr-2">
-        <img src="img/social/facebook.png" alt="" >
+        <a href="https://www.facebook.com/juanapersonalizacoes/?ref=settings"><img src="img/social/facebook.png" alt="" ></a>
     </div>
     <div class="btn btn bg-white p-0">
-        <img src="img/social/telegram.png" alt="">
+        <a href="https://web.telegram.org/#/im?p=u777000_4041729175755639182"><img src="img/social/telegram.png" alt=""></a>
     </div>
     </footer>
 </body>

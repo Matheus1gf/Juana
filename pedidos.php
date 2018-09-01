@@ -31,22 +31,22 @@
     <!-- Fim da Logo -->
 
     </div>
-    <div id="container">
     <!--Menu-->
     <?php
     include 'menu.php';
     ?>
     <!-- Final do menu -->
 
-    
+    <div id="container">
     
     <!-- Caixa de pedidos -->
-    <div class="container" id="container-pedidos">
+    <div class="container mt-5" id="container-pedidos">
         
     
     <h2 id="pag-pedidos">Página de pedidos</h2>
-    <hr>
-    <h3>Item</h3>
+    <hr class="linha cor-botao">
+    <p class="descricao text-center">Escolha um produto, selecione as imagens que deseja personalizar e envie uma descrição de como deseja sua personalização.</p><p class="descricao text-center"> Após o envio, nós entraremos em contato para maiores detalhes.</p>
+    <h3 class="item mt-5">Item</h3>
 
     <form action="mailto:testejuana@gmail.com" method="post">
         <div id="itens">
@@ -119,7 +119,7 @@
         <!-- Canecas -->
         
         <div id="Caneca">
-            <h3>Tipo</h3>
+            <h3 class="tipo mt-5">Tipo</h3>
             <div class="form-check">
                 <input class="form-check-input" type="radio" name="caneca" id="caneca-comum"> Caneca comum          
             </div>
@@ -159,7 +159,7 @@
     <!-- Chinelo -->
         
         <div id="Chinelo">
-            <h3>Tipo</h3>
+            <h3 class="tipo mt-5">Tipo</h3>
              <div class="form-check">
               <input class="form-check-input" type="radio" name="chinelo" id="chinelo-infantil"> Chinelo infantil          
             </div>
@@ -172,7 +172,7 @@
         
     
          <div id="Camisa">
-             <h3>Tipo</h3>
+             <h3 class="tipo mt-5">Tipo</h3>
              <div class="form-check">
               <input class="form-check-input" type="radio" name="camisa" id="camisa-infantil"> Camisa infantil          
             </div>
@@ -185,7 +185,7 @@
         
     
          <div id="Bolsa">
-             <h3>Tipo</h3>
+             <h3 class="tipo mt-5">Tipo</h3>
              <div class="form-check">
               <input class="form-check-input" type="radio" name="bolsa" id="bolsa-comum"> Bolsa comum          
             </div>
@@ -197,7 +197,7 @@
     <!-- Outros -->
     
     <div id="Outros">
-        <h3>Outros Itens</h3>
+        <h3 class="outros mt-5">Outros Itens</h3>
         <div class="form-check-inline">
             <input type="radio" id="item-avental" name="outros"> Avental
             </div>
@@ -321,7 +321,7 @@
     </div>
     
     
-    <table width="32%" border="0" align="text-left">
+    <table width="32%" border="0" align="text-left" class="arquivo mt-5"> 
     <tr>
     <td><div align="right" class="texto">Anexo</div></td>
     <td><input name="arquivo" type="file"></td>
@@ -332,7 +332,7 @@
     </tr>
     <tr>
     <td></td>
-    <td><input type="submit" class="btn btn-success  cor-botao text-white" name="Submit" value="Fazer pedido"></td>
+    <td><input type="submit" class="btn btn-dark  cor-botao text-white" name="Submit" value="Fazer pedido"></td>
     </tr>
     </table>
     
@@ -344,15 +344,16 @@
       <!-- rodapé -->
     <footer class="cor-botao p-4" >
     <div class="botao btn btn bg-white p-0 mr-2">
-        <img src="img/social/facebook.png" alt="" >
+        <a href="https://www.facebook.com/juanapersonalizacoes/?ref=settings"><img src="img/social/facebook.png" alt="" ></a>
     </div>
     <div class="btn btn bg-white p-0">
-        <img src="img/social/telegram.png" alt="">
+    <a href="https://web.telegram.org/#/im?p=u777000_4041729175755639182"><img src="img/social/telegram.png" alt=""></a>
     </div>
     </footer>
     
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    </div>
   </body>
 </html>
