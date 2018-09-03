@@ -44,22 +44,15 @@
             }
         </style>
         <div id="container-pedidos"class="container mt-5 mb-5">
-            <h1>Login</h1>
+            <h1 class="esquecisenha text-center">Esqueci Minha Senha</h1>
             <hr class="linha cor-botao">
             <div class="row">
                 <div class="col-md-6">
                     <form class="container">
                         <div class="form-group">
-                              <input type="email" class="form-control" name="login" id="login" aria-describedby="emailLogin" placeholder="Seu e-mail">
+                              <input type="email" class="form-control" name="email" id="email" aria-describedby="emailSenha" placeholder="Seu e-mail">
                         </div>
-                        <div class="form-group">
-                              <input type="password" class="form-control" name="senha" id="entreSenha" placeholder="Sua senha">
-                        </div>
-                        <div class="form-group form-check">
-                            <input type="checkbox" class="form-check-input" id="lembrarLogin">
-                            <label class="form-check-label" for="exampleCheck1">Lembrar meu login</label>
-                        </div>
-                      <button type="submit" class="btn btn-dark cor-botao text-white btn-lg">Entrar</button>
+                      <button type="submit" class="btn btn-dark cor-botao text-white btn-lg">Enviar</button>
                     </form>
                 </div>     
                            
@@ -67,11 +60,9 @@
              <div class="col-md-6 vl">
              
                 <p class="text-justify">
-                    Porque se cadastrar no nosso site? Tenha mais facilidade
-                    em executar seus pedidos e nos enviar a decoração que desejar
-                    em nossos produtos. Nós da juana personalizações buscamos sempre
-                    o maior conforto e melhor atendimento aos nossos clientes.
-                    Junte-se a nós e se CADASTRE logo abaixo.
+                    Esqueceu sua senha? Não têm problema, um email será enviado para você fornecendo a sua senha.
+                    Por favor, coloque no campo a esquerda o seu email cadastrado no nosso site!
+                    Caso não possua cadastro, basta clicar abaixo para se cadastrar.
                 </p>
                 <p class="text-center">
                     <a href="cadastro.php">Clique AQUI e faça seu cadastro.</a>
