@@ -53,55 +53,60 @@
     <!-- cards -->
     <div class="tab-content container" id="pills-tabContent">
     
-    <!-- canecas -->
-    <?php
-    include 'Paginacanecas/conteudofiltrocomum.php';
-    ?>
-    <!-- fim menu 1 -->
+       <!-- canecas -->
+       <?php
+       include 'Paginacanecas/conteudofiltrocomum.php';
+       ?>
+       <!-- fim menu 1 -->
       
-      <!-- menu 2 -->
-     <?php
-     include'Paginacanecas/conteudofiltrometalizada.php';
-     ?>
-      <!-- fim menu 2 -->
-      
+       <!-- menu 2 -->
+       <?php
+       include'Paginacanecas/conteudofiltrometalizada.php';
+       ?>
+       <!-- fim menu 2 -->
        <!-- menu 3 -->
+       <?php
+       include'Paginacanecas/conteudofiltromagica.php';
+       ?>
+       <!-- fim menu 3 -->
+      
+       <!-- menu 4 -->
        <?php
         include 'Paginacanecas/conteudofiltrocromada.php';
         ?>
-       <!-- fim menu 3 -->
+       <!-- fim menu 4 -->
      
-       <!-- menu 4 -->
+       <!-- menu 5 -->
         <?php
         include 'Paginacanecas/conteudofiltrofundo.php';
         ?>
-       <!-- fim menu 4 -->
-       
-       <!-- menu 5 -->
-        <?php
-        include 'Paginacanecas/conteudofiltroalca.php';
-        ?>
        <!-- fim menu 5 -->
+       
        <!-- menu 6 -->
         <?php
-        include 'Paginacanecas/conteudofiltrotarja.php';
+        include 'Paginacanecas/conteudofiltroalca.php';
         ?>
        <!-- fim menu 6 -->
        <!-- menu 7 -->
         <?php
-        include 'Paginacanecas/conteudofiltrochopp.php';
-        ?>
-       <!-- fim menu 7 -->
-       <!-- menu 7 -->
-        <?php
-        include 'Paginacanecas/conteudofiltrocafejapones.php';
+        include 'Paginacanecas/conteudofiltrotarja.php';
         ?>
        <!-- fim menu 7 -->
        <!-- menu 8 -->
         <?php
-        include 'Paginacanecas/conteudofiltrosqueeze.php';
+        include 'Paginacanecas/conteudofiltrochopp.php';
         ?>
        <!-- fim menu 8 -->
+       <!-- menu 9 -->
+        <?php
+        include 'Paginacanecas/conteudofiltrocafejapones.php';
+        ?>
+       <!-- fim menu 9 -->
+       <!-- menu 10 -->
+        <?php
+        include 'Paginacanecas/conteudofiltrosqueeze.php';
+        ?>
+       <!-- fim menu 10 -->
         </div>
 <!-- fim do menu -->
     </div>  

@@ -6,6 +6,9 @@
         <a class="nav-link" id="pills-metalizada-tab" data-toggle="pill" href="#pills-metalizada" role="tab" aria-controls="pills-metalizada" aria-selected="false">METALIZADA</a>
       </li>
       <li class="nav-item pill">
+        <a class="nav-link" id="pills-magica-tab" data-toggle="pill" href="#pills-magica" role="tab" aria-controls="pills-magica" aria-selected="false">MÁGICA</a>
+      </li>
+      <li class="nav-item pill">
         <a class="nav-link" id="pills-cromada-tab" data-toggle="pill" href="#pills-cromada" role="tab" aria-controls="pills-cromada" aria-selected="false">CROMADA</a>
       </li>
       <li class="nav-item pill">
