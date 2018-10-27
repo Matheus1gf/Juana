@@ -11,7 +11,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     <!-- Link do css -->
-    <link rel="stylesheet" href="style.css">
+    <?php
+    include 'estilo.php';
+    ?>
 </head>
 <body>
    <div class="topo">
@@ -43,16 +45,12 @@
             <hr class="linha cor-botao">
             <div class="row">
                 <div class="col-md-6">
-                    <form class="container">
+                    <form class="container" action="verificarlogin.php" method="post">
                         <div class="form-group">
-                              <input type="email" class="form-control" name="login" id="login" aria-describedby="emailLogin" placeholder="Seu e-mail">
+                              <input type="email" class="form-control" name="email" id="email" aria-describedby="email" placeholder="Seu e-mail">
                         </div>
                         <div class="form-group">
-                              <input type="password" class="form-control" name="senha" id="entreSenha" placeholder="Sua senha">
-                        </div>
-                        <div class="form-group form-check">
-                            <input type="checkbox" class="form-check-input" id="lembrarLogin">
-                            <label class="form-check-label" for="exampleCheck1">Lembrar meu login</label>
+                              <input type="password" class="form-control" name="senha" id="senha" placeholder="Sua senha">
                         </div>
                       <button type="submit" class="btn btn-dark cor-botao text-white btn-lg">Entrar</button>
                     </form>
@@ -79,12 +77,16 @@
             </div>
             </div>
         <!-- rodapé -->
-    <footer class="cor-botao p-4" >
-    <div class="botao btn btn bg-white p-0 mr-2">
+        <footer class="cor-botao p-4" >
+    <div class="text-center text-white">
+        <p>Banco de Areia, Mesquita - RJ, 26564-000</p>
+        <p>Copyright © 2018 - Todos os direitos reservados.</p> 
+    </div>   
+    <div class="botao btn btn bg-white p-0">
         <a href="https://www.facebook.com/juanapersonalizacoes/?ref=settings"><img src="img/social/facebook.png" alt="" ></a>
     </div>
     <div class="btn btn bg-white p-0">
-    <a href="https://web.telegram.org/#/im?p=u777000_4041729175755639182"><img src="img/social/telegram.png" alt=""></a>
+        <a href="https://web.telegram.org/#/im?p=u777000_4041729175755639182"><img src="img/social/telegram.png" alt=""></a>
     </div>
     </footer>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

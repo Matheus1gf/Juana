@@ -1,7 +1,7 @@
 <div class="tab-pane fade" id="pills-outros" role="tabpanel" aria-labelledby="pills-outros-tab">
       <div class="row mb-4" id="linha1deoutros">
       <!-- Card 1 -->
-      <div class="card" style="width: 21.75rem;">
+      <div class="card col-md" style="width: 21.75rem;">
           <img class="card-img-top" src="img/menu/16.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">AVENTAIS</h5>
@@ -12,7 +12,7 @@
       <!-- Fim do card 1 -->
       
       <!-- Card 2 -->
-      <div class="card ml-5 mr-5" style="width: 21.75rem;">
+      <div class="card ml-5 mr-5 col-md" style="width: 21.75rem;">
           <img class="card-img-top" src="img/menu/17.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">AZULEIJOS</h5>
@@ -23,7 +23,7 @@
       <!-- Fim do card 2 -->
       
       <!-- Card 3 -->
-      <div class="card" style="width: 21.75rem;">
+      <div class="card col-md" style="width: 21.75rem;">
           <img class="card-img-top" src="img/menu/18.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">CHAVEIROS COMUNS</h5>
@@ -35,7 +35,7 @@
       <!-- Fim do card 3 -->
       <div class="row mb-4" id="linha2deoutros">
       <!-- Card 4 -->
-      <div class="card" style="width: 21.75rem;">
+      <div class="card col-md" style="width: 21.75rem;">
           <img class="card-img-top" src="img/menu/19.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">CHAVEIROS ESPUMA</h5>
@@ -46,7 +46,7 @@
       <!-- Fim do card 4 -->
       
       <!-- Card 5 -->
-      <div class="card ml-5 mr-5" style="width: 21.75rem;">
+      <div class="card ml-5 col-md" style="width: 21.75rem;">
           <img class="card-img-top" src="img/menu/20.jpg" alt="Imagem de capa do card">
           <div class="card-body">
             <h5 class="card-title">QUEBRA-CABEÇAS</h5>

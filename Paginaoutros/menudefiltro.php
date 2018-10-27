@@ -3,7 +3,7 @@
         <a class="nav-link active" id="pills-avental-tab" data-toggle="pill" href="#pills-avental" role="tab" aria-controls="pills-avental" aria-selected="true">AVENTAL</a>
       </li>
       <li class="nav-item pill">
-        <a class="nav-link" id="pills-azuleijo-tab" data-toggle="pill" href="#pills-azuleijo" role="tab" aria-controls="pills-azuleijo" aria-selected="false">AZULEIJO</a>
+        <a class="nav-link" id="pills-azuleijo-tab" data-toggle="pill" href="#pills-azulejo" role="tab" aria-controls="pills-azulejo" aria-selected="false">AZULEJO</a>
       </li>
       <li class="nav-item pill">
         <a class="nav-link" id="pills-bolsas-tab" data-toggle="pill" href="#pills-bolsas" role="tab" aria-controls="pills-bolsas" aria-selected="false">BOLSAS</a>

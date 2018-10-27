@@ -5,9 +5,9 @@
           <img class="card-img-top" src="img/Canecas/Comum/comum1.png" alt="Imagem de capa do card">
             <div class="card-body">
                 <h5 class="card-title">CANECA COMUM BRANCA</h5>
-                <p class="card-text">R$12,00.</p>
+                <p class="card-text">R$15,00.</p>
             </div>
-            <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+            <div class="card-body"><a href="canecas.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
         </div>
     </div>
 </div>

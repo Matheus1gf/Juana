@@ -11,7 +11,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     <!-- Link do css -->
-    <link rel="stylesheet" href="style.css">
+    <?php
+    include 'estilo.php';
+    ?>
 </head>
 <body>
    <div class="topo">
@@ -74,7 +76,11 @@
             </div>
     <!-- rodapé -->
     <footer class="cor-botao p-4" >
-    <div class="botao btn btn bg-white p-0 mr-2">
+    <div class="text-center text-white">
+        <p>Banco de Areia, Mesquita - RJ, 26564-000</p>
+        <p>Copyright © 2018 - Todos os direitos reservados.</p> 
+    </div>   
+    <div class="botao btn btn bg-white p-0">
         <a href="https://www.facebook.com/juanapersonalizacoes/?ref=settings"><img src="img/social/facebook.png" alt="" ></a>
     </div>
     <div class="btn btn bg-white p-0">

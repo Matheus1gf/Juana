@@ -1,5 +1,5 @@
 <div class="tab-pane fade show active" id="pills-avental" role="tabpanel" aria-labelledby="pills-avental-tab">
-        <div class="row mb-4" id="linha1avental">
+        <div class="row mb-4 col-md" id="linha1avental">
         <!-- Card 1 -->
         <div class="shadow bg-white rounded" style="width: 21.75rem;">
           <img class="card-img-top" src="img/Outros/Avental/Avental.jpg" alt="Imagem de capa do card">
