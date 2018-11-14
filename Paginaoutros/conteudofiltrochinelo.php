@@ -7,7 +7,7 @@
             <h5 class="card-title">CHINELOS INFANTIS</h5>
             <p class="card-text">Tamnho 17/18 até 31/32 - R$10,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Visitar</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Visitar</a></div>
       </div>
       <!-- Fim do card 1 -->
       
@@ -18,7 +18,7 @@
             <h5 class="card-title">CHINELOS ADULTOS</h5>
             <p class="card-text">Tamanho 33/34 até 45/46 - R$15,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Visitar</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Visitar</a></div>
       </div>
       <!-- Fim do card 2 -->
     </div>

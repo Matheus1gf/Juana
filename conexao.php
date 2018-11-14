@@ -4,6 +4,6 @@
     $con = mysqli_connect("Localhost",
                                "root",
                                "",
-                               "juana");
+                               "juana184_juana");
     mysqli_set_charset($con, "utf8");
 ?>

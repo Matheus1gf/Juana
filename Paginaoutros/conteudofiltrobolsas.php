@@ -7,7 +7,7 @@
             <h5 class="card-title">SACOLA ESPORTIVA</h5>
             <p class="card-text">30x30 - R$10,00. <br>40x40 - R$12,00.</p>
           </div>
-          <div class="card-body mt-4"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body mt-4"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 1 -->
       
@@ -18,7 +18,7 @@
             <h5 class="card-title">BOLSA COMUM</h5>
             <p class="card-text">30x40 - R$9,00.</p>
           </div>
-          <div class="card-body mt-5"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body mt-5"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
     </div>
       <!-- Fim do card 2 -->

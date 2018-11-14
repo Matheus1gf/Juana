@@ -14,6 +14,9 @@
     <?php
     include 'estilo.php';
     ?>
+    <script src="js/validate.js"></script>
+    <script src="js/inputMask.js"></script>
+    <script src="js/mascaraTelefone.js"></script>
 </head>
 <body>
    <div class="topo">
@@ -56,7 +59,7 @@
   <div class="card mt-4">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14714.540468167641!2d-43.423035569927364!3d-22.778918711230254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x996690c0083bc1%3A0x50d17b4be476756e!2sBanco+de+Areia%2C+Mesquita+-+RJ!5e0!3m2!1spt-BR!2sbr!4v1539990818009" width="100%" height="350" frameborder="0" style="border0" allowfullscreen></iframe>
     <div class="card-body">
-      <h5 class="card-title">Sede Veríssimos Personalizações</h5>
+      <h5 class="card-title">Sede Juana Personalizações</h5>
       <p class="card-text">Nossa sede fica situada no bairro Banco de Areia em Mesquita-RJ.</p>
       
     </div>
@@ -89,7 +92,7 @@
      <div class="card-body">
       <h5 class="card-title">Telegram</h5>
       <p class="card-text">99322-3339</p>
-      <p class="card-text"><a href="https://web.telegram.org/#/im?p=u777000_4041729175755639182">CLique Aqui</a></p>
+      <p class="card-text"><a href="https://web.telegram.org/#/im?p=u777000_4041729175755639182">Clique Aqui</a></p>
       
     </div>
   </div>
@@ -99,7 +102,7 @@
    </div>
      <div class="card-body">
       <h5 class="card-title">Facebook</h5>
-      <p class="card-text">SIga nossa página</p>
+      <p class="card-text">Siga nossa página</p>
       <p class="card-text"><a href="https://www.facebook.com/juanapersonalizacoes/?ref=settings">Clique aqui!</a></p>
               </div>
           </div>

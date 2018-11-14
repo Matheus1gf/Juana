@@ -15,13 +15,13 @@ include_once 'recuperacaovalida.php';
         <form action="recuperacaovalida.php" method="POST">
         <div class="form-group"> <br>
         <label for="email">Email</label>
-            <input name="email" type="email" class="form-control" id="email">
+            <input name="email" type="email" class="form-control" id="email2">
         </div>
         <div class="form-group"> <br>
-        <label for="email">Celular</label>
-            <input name="celular" type="text" class="form-control" id="celular">
+        <label for="celular">Celular</label>
+            <input name="celular" type="text" class="form-control" id="celular2">
         </div>
-        <input type="submit" value="Enviar" data-toggle="modal" data-target="#modal2" class="btn btn-dark cor-botao text-white">
+        <input type="submit" value="Enviar" class="btn btn-dark cor-botao text-white">
         </form>
       </div>
       

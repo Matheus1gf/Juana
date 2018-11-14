@@ -17,8 +17,8 @@ if ($result){
                  $_SESSION["nome"] = $x["nome"];
                  $_SESSION["id"] = $x["id"];
                  $_SESSION["sobrenome"] = $x["sobrenome"];
-                 $_SESSION["tel"] = $x["telefone"];
-                 $_SESSION["cel"] = $x["celular"];
+                 $_SESSION["telefone"] = $x["telefone"];
+                 $_SESSION["celular"] = $x["celular"];
                  $_SESSION["email"] = $x["email"];
                  
                  header('Location: index.php');

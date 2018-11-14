@@ -7,7 +7,7 @@
             <h5 class="card-title">QUEBRA CABEÇAS DE CORAÇÃO - 10 PEÇAS</h5>
             <p class="card-text">R$6,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 1 -->
       
@@ -18,7 +18,7 @@
             <h5 class="card-title">QUEBRA CABEÇAS DE CORAÇÃO - 52 PEÇAS</h5>
             <p class="card-text">R$9,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 2 -->
         
@@ -29,7 +29,7 @@
             <h5 class="card-title">QUEBRA CABEÇAS DE CORAÇÃO - 75 PEÇAS</h5>
             <p class="card-text">R$10,00</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 3 -->
     </div>
@@ -42,7 +42,7 @@
             <h5 class="card-title">QUEBRA CABEÇAS OVAL <br>- 51 PEÇAS</h5>
             <p class="card-text">R$11,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 4 -->
       
@@ -53,7 +53,7 @@
             <h5 class="card-title">QUEBRA CABEÇAS REDONDO <br>- 41 PEÇAS</h5>
             <p class="card-text">R$10,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 5 -->
         
@@ -64,7 +64,7 @@
             <h5 class="card-title">QUEBRA CABEÇAS RETANGULAR - 12 PEÇAS</h5>
             <p class="card-text">R$5,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 6 -->
     </div>
@@ -76,7 +76,7 @@
             <h5 class="card-title">QUEBRA CABEÇAS RETANGULAR - 24 PEÇAS</h5>
             <p class="card-text">R$10,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 7 -->
       
@@ -87,7 +87,7 @@
             <h5 class="card-title">QUEBRA CABEÇAS RETANGULAR - 48 PEÇAS</h5>
             <p class="card-text">R$11,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 8 -->
         
@@ -98,7 +98,7 @@
             <h5 class="card-title">QUEBRA CABEÇAS RETANGULAR - 80 PEÇAS</h5>
             <p class="card-text">R$12,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 9 -->
     </div>

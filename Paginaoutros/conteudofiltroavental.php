@@ -7,7 +7,7 @@
                 <h5 class="card-title">AVENTAL</h5>
                 <p class="card-text">R$12,00.</p>
             </div>
-            <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+            <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
         </div>
     </div>
 </div>

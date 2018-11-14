@@ -26,20 +26,14 @@
         <input type="password" name="senha" class="form-control" id="senha" placeholder="Senha">
       </div>
     </div>
-    
-    <div class="col-auto">
-      <div class="form-check mb-2">
-        <input class="form-check-input" type="checkbox" id="autoSizingCheck">
-      </div>
-    </div>
     <div class="col-auto">
       <button type="submit" class="btn btn-dark text-white cor-botao mb-2">Enviar</button>
     </div>
   </div>
       <div class="textocadastro float-right">
-      <button type="button" class="btn btn-dark cor-botao text-white" data-toggle="modal" data-target="#exampleModal" data-whatever="@mdo">
+      <a href="" data-toggle="modal" data-target="#exampleModal" data-whatever="@mdo">
       Esqueci minha senha
-      </button>
+      </a>
 
     </div>
       <div class="textocadastro float-left">

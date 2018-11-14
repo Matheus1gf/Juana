@@ -7,7 +7,7 @@
             <h5 class="card-title">SQUEEZE BRANCO COM BIQUEIRA E TAMPA 500ML</h5>
             <p class="card-text">R$15,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 1 -->
       
@@ -18,7 +18,7 @@
             <h5 class="card-title">SQUEEZE BRANCO COM BICO RETRÁTIL 600ML</h5>
             <p class="card-text">R$24,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 2 -->
         
@@ -29,7 +29,7 @@
             <h5 class="card-title">SQUEEZE BRANCO COM TAMPA MOSQUETÃO</h5>
             <p class="card-text">R$25,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 2 -->
     </div>

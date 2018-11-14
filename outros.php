@@ -14,6 +14,9 @@
     <?php
     include 'estilo.php';
     ?>
+    <script src="js/validate.js"></script>
+    <script src="js/inputMask.js"></script>
+    <script src="js/mascaraTelefone.js"></script>
 </head>
 <body>
    <div class="topo">

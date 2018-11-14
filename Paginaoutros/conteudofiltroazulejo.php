@@ -7,7 +7,7 @@
             <h5 class="card-title">AZULEJO SIMPLES</h5>
             <p class="card-text">15x15 - R$10,00. <br> x20x20 - R$14,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 1 -->
       
@@ -18,7 +18,7 @@
             <h5 class="card-title">AZULEJO COM RELÓGIO</h5>
             <p class="card-text">15x15 - R$20,00. <br> 20x20 - R$24,00</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 2 -->
     </div>

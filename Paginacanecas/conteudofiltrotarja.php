@@ -7,7 +7,7 @@
             <h5 class="card-title">CANECA NEON COM TARJA BRANCA</h5>
             <p class="card-text">Caneca neon nas cores verde e vermelha por R$26,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
       <!-- Fim do card 1 -->
       
@@ -18,7 +18,7 @@
             <h5 class="card-title">CANECA PRETA COM TARJA BRANCA</h5>
             <p class="card-text">Caneca nas cores Verde clara, vermelha e laranja por R$28,00.</p>
           </div>
-          <div class="card-body"><a href="#" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
+          <div class="card-body"><a href="pedidos.php" class="btn btn-outline-dark cor-botao text-white">Pedir</a></div>
       </div>
     </div>
       <!-- Fim do card 2 -->
